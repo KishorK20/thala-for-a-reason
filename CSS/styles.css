@@ -1,0 +1,16 @@
+
+  body {
+    background-position: left;
+    background-color: rgb(29, 29, 65);
+  }
+  
+  .input {
+    background-color: gray;
+    color: black;
+  }
+  
+  .btn-primary {
+    background-color: yellow;
+    color: blue; /* Set the text color to white or any other color you prefer */
+  }
+  
