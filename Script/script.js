@@ -33,7 +33,7 @@ btn.addEventListener("click", (e) => {
     setTimeout(() => {
       music.pause();
       music.currentTime = 0;
-    }, 10000);
+    }, 27000);
   } else {
     document.body.style.backgroundImage =
       "url('https://media1.tenor.com/m/BYZf0mMHcY4AAAAC/%E7%9A%849.gif')";
@@ -41,7 +41,7 @@ btn.addEventListener("click", (e) => {
     setTimeout(() => {
       moye.pause();
       moye.currentTime = 0;
-    }, 10000);
+    }, 15000);
   }
 });
 
